@@ -1,1 +1,1 @@
-# Hand-Written-OCR
+# Placeholder README
